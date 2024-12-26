@@ -14,3 +14,6 @@ If you're a fan of strglance but don't have time to contribute, you can still su
 
 ## New Feature Guidance
 Please ensure any new features have a corresponding issue tagged with the "Wishlist" label, this helps keep the project true to it's original goals and scope. Wherever possible please also add tests and provide a copy/paste of CLI output demonstrating your feature in action when submitting.
+
+## Commit Style
+This project uses the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) commit style which is enforced via GitHub action
